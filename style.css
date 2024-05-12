@@ -32,15 +32,18 @@ p {
     padding: 15px 20px;
     border-radius: 50px;
     margin: 35px auto;
+    text-decoration: none;
     transition-duration: 0.5s;
 }
 
 p:hover {
     color: #285127;
+    text-decoration: none;
 }
 
 p:hover {
     background-color: #ECF39E;
+    text-decoration: none;
 }
 
 h3 {

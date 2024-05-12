@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+* {
+    text-decoration: none;
+}
+
 body {
     background-attachment: fixed;
     background-image: linear-gradient(#ECF39E, #90A955, #65943c, #3f6e39, #204320);
@@ -27,14 +31,12 @@ p {
     width: 300px;
     padding: 15px 20px;
     border-radius: 50px;
-    text-decoration: underline rgb(181, 253, 192);
     margin: 35px auto;
     transition-duration: 0.5s;
 }
 
 p:hover {
     color: #285127;
-    text-decoration: underline #285127;
 }
 
 p:hover {
